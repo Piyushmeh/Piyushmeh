@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Piyush Bansod<br><br>💻 Software Developer from India<br><br>🔭 Working on Full-Stack Web Development Projects<br><br>🌱 Learning Java, Node.js, System Design, Problem Solvoing and Blockchain<br><br>💬 Ask me about Java, JavaScript, React, Node.js, Express, PostgreSQL and MongoDB<br><br>⚡ I enjoy turning ideas into real-world applications.
+👋 Hi, I'm Piyush Bansod, a Software Developer from India. I build full-stack web applications with a strong focus on backend systems, API design, performance, and scalability. My focus is on writing clean, maintainable code and understanding how applications behave in real-world environments rather than just making them work locally.<br>⚙️ I'm currently exploring backend engineering concepts such as authentication & authorization, rate limiting, caching, API security, database optimization, and scalable system design. I also enjoy experimenting with blockchain technologies and building projects that help me understand how modern software is designed, deployed, and scaled in production.
 
 
 ## 🌐 Socials:
